@@ -4,7 +4,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.1%20million%20lines%20of%20code-blue)
 
@@ -26,13 +26,17 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 mins              ███████████████████████░░   93.32% 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.11% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+mall-api2                3 mins              ████████████████████████░   96.0% 
+mall-api                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43% 
+cardoc-commerce-noti     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57%
 
 ```
 
