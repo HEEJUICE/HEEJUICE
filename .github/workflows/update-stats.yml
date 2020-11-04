@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 00:00AM UTC
-    - cron: '* * * * *'
+    - cron: '0 */1 * * *'
 
 jobs:
   update-readme:
@@ -16,6 +16,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "False"
-          SHOW_COMMIT: "False"
+          SHOW_PROFILE_VIEWS: "False" 
           SHOW_LINES_OF_CODE: "True"
           LOCALE: "en"
