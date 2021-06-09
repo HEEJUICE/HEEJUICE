@@ -4,7 +4,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.6%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -35,11 +35,10 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-PHP                      5 hrs 44 mins       █████████████████████████   100.0% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+PHP                      5 hrs 4 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  5 hrs 44 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 4 mins        █████████████████████████   100.0%
 
 ```
 
