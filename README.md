@@ -4,7 +4,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.4%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -49,9 +49,9 @@ VS Code                  27 hrs 22 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ███████████████░░░░░░░░░░   61.11% 
-TypeScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+JavaScript               10 repos            ██████████████░░░░░░░░░░░   58.82% 
+TypeScript               6 repos             ████████░░░░░░░░░░░░░░░░░   35.29% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
 ```
 
